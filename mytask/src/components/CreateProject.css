@@ -1,0 +1,18 @@
+.main{
+    
+    width: 75%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    font-weight: bold;
+    color: black;
+}
+.img{
+    height: 100px;
+    width: 100px;
+}
+.con3{
+    color: #9c9d9d;
+}
